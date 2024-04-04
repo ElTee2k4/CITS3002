@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "7c93c7f6a046dd38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 4/Lecture 4 pt 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adeb9d412d381ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5efe301c9e78e456",
             "type": "leaf",
             "state": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 4/Lecture 4 - LAN.md",
+                "file": "Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 4/Lecture 4 - LAN.md",
+                "file": "Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 4/Lecture 4 - LAN.md"
+                "file": "Lecture 5.md"
               }
             }
           }
@@ -184,15 +208,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4e82c658539cbd",
+  "active": "adeb9d412d381ac5",
   "lastOpenFiles": [
+    "Lecture 5.md",
+    "Week 5",
+    "Week 4/Lecture 4 pt 2.md",
+    "Week 4/Lecture 4 - LAN.md",
+    "Images/Pasted image 20240403112542.png",
+    "Images/Pasted image 20240403110305.png",
+    "Images/inslots.gif",
+    "Images/Pasted image 20240403093416.png",
+    "Images/slotted.gif",
     "Week 3/CNET Network Simulator.md",
-    "Untitled.md",
     "Week 4",
     "Images/Pasted image 20240402171824.png",
     "Week 3",
     "Week 3/Lecture 3.md",
-    "Week 4/Lecture 4 - LAN.md",
     "Images",
     "Images/Pasted image 20240402174134.png",
     "Images/Pasted image 20240402173216.png",
@@ -200,11 +231,6 @@
     "Week 3/CNET Running.md",
     "Images/tracetimeline.png",
     "Week 3/CNET Protocol Example.md",
-    "Images/Pasted image 20240402133323.png",
-    "Images/Pasted image 20240402122944.png",
-    "Images/Pasted image 20240402104917.png",
-    "Images/layers.png",
-    "Welcome.md",
-    "Images/Screenshot from 2024-04-01 13-04-55.png"
+    "Welcome.md"
   ]
 }
