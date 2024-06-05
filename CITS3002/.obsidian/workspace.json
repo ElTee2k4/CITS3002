@@ -4,88 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6b7fc89016122307",
+        "id": "2bf9811ab4c1e982",
         "type": "tabs",
         "children": [
           {
-            "id": "ab77939fc5a0c9b0",
+            "id": "519f5d96721d9792",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/CNET Network Simulator.md",
+                "file": "Week 7/TCP-IP Protocol.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a528f11dec4ea203",
+            "id": "d1bf750814d57624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 3/Lecture 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f4e82c658539cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4/Lecture 4 - LAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adeb9d412d381ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 5/Lecture 5 Pt 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd3de58731fd4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 5/Lecture 5 Pt 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5efe301c9e78e456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3/CNET Network Simulator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a6c0095de4f718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 4/Lecture 4 - LAN.md",
+                "file": "Week 7/Lecture 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +33,61 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "84ba5b757cc1728b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c78238ee738703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture independent applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "951359d82d934e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CITS3002 Project - Adding Broadcast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad8c496e5acb7987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STUDY CITS3002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ba94698b1df9582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture independent applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 3/Lecture 3.md",
+                "file": "Week 7/Lecture 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 3/Lecture 3.md",
+                "file": "Week 7/Lecture 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 3/Lecture 3.md"
+                "file": "Week 7/Lecture 6.md"
               }
             }
           }
@@ -219,26 +214,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a528f11dec4ea203",
+  "active": "d1bf750814d57624",
   "lastOpenFiles": [
-    "Week 3/Lecture 3 without code.md",
-    "Week 3/Lecture 3.md",
-    "Week 3/Lecture 3 Pt 2.md",
-    "Week 4/Lecture 4 - LAN.md",
-    "Pasted image 20240405180459.png",
+    "Week 7/TCP-IP Protocol.md",
+    "Week 7/Lecture 6.md",
+    "STUDY CITS3002.md",
+    "CITS3002 Project - Adding Broadcast.md",
+    "Architecture independent applications.md",
+    "Screenshot from 2024-06-05 17-23-22.png",
+    "Week 8/Lecture 8 - Transport Layer protocols and APIs.md",
     "Week 4/Lecture 4 pt 2.md",
-    "Week 5/Lecture 5 Pt 1.md",
+    "CITS3002 Project - Getting Started.md",
+    "Screenshot from 2024-05-20 20-40-37.png",
+    "Week 10",
+    "CITS3002 Project - Beej.md",
+    "Week 9/Lecture 9 - Client-Server.md",
+    "Week 4/Lecture 4 - LAN.md",
     "Week 3/CNET Network Simulator.md",
-    "Images/end2end.gif",
-    "Images/Pasted image 20240404125508.png",
-    "Images/Pasted image 20240404125036.png",
-    "Images/counttoinfinity.jpg",
-    "Images/distancevector.jpg",
-    "Images/Pasted image 20240404113015.png",
     "Week 5/Lecture 5 Pt 2.md",
-    "Images/nlpath.gif",
-    "Images/fragmentation.gif",
-    "Images/Pasted image 20240404090756.png",
+    "Week 5/Lecture 5 Pt 1.md",
+    "Images/Screenshot from 2024-04-29 20-30-06.png",
+    "FLASK PYTHON.md",
+    "Week 9",
+    "Flask.md",
+    "Pasted image 20240501101928.png",
+    "Images/Screenshot from 2024-05-01 08-57-53.png",
+    "Images/Screenshot from 2024-04-30 19-57-52.png",
+    "Images/Screenshot from 2024-04-30 11-42-23.png",
+    "Images/Screenshot from 2024-04-30 11-07-15.png",
+    "Images/Screenshot from 2024-04-30 10-22-02.png",
+    "Images/Screenshot from 2024-04-30 10-05-17.png",
+    "Week 8",
+    "(dwwewewen).md",
+    "().md",
+    "axj.md",
+    "Week 7",
+    "Week 3/Lecture 3.md",
+    "Week 3/Lecture 3 without code.md",
+    "Week 3/Lecture 3 Pt 2.md",
     "Week 5",
     "Week 4",
     "Week 3",
